@@ -55,7 +55,7 @@ button{
 
 .section1{
     background: linear-gradient(rgba(0,0,0,0.7),rgba(0,0,0,0.5)  ), url("./images/bgcontainer.jpeg") ;
-    height: 45vh; 
+    height: 52vh; 
     display: flex;
     flex-direction: column; 
     justify-content: space-evenly;
@@ -371,4 +371,7 @@ footer h2{
 }
 .item-logos i{
     font-size: 30px;
+}
+.container1{
+    margin-left: 4rem;
 }
